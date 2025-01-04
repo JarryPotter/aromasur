@@ -1,304 +1,834 @@
-[
-  { "nombre": "1 MILLION ", "sexo": "HOMBRE", "referencia": 108 },
-  { "nombre": "212 ", "sexo": "HOMBRE", "referencia": 45 },
-  { "nombre": "212 ", "sexo": "FEMENINA", "referencia": 12 },
-  { "nombre": "212 SEXY ", "sexo": "HOMBRE", "referencia": 171 },
-  { "nombre": "212 VIP BLACK ", "sexo": "HOMBRE", "referencia": 127 },
-  { "nombre": "212 VIP ", "sexo": "HOMBRE", "referencia": 47 },
-  { "nombre": "5a AVENIDA", "sexo": "FEMENINA", "referencia": 3 },
-  { "nombre": "ACQUA DI GIO ", "sexo": "HOMBRE", "referencia": 26 },
-  { "nombre": "AGUA DE ROCHAS ", "sexo": "FEMENINA", "referencia": 6 },
-  { "nombre": "AGUA F ROSAS", "sexo": "FEMENINA", "referencia": 11 },
-  { "nombre": "AGUA FRESCA ", "sexo": "HOMBRE", "referencia": 19 },
-  { "nombre": "AIRE LOEWE", "sexo": "FEMENINA", "referencia": 80 },
-  { "nombre": "ALLIEN ", "sexo": "FEMENINA", "referencia": 42 },
-  { "nombre": "ALLURE ", "sexo": "HOMBRE", "referencia": 162 },
-  { "nombre": "ALLURE ", "sexo": "FEMENINA", "referencia": 156 },
-  { "nombre": "ALLURE SPORT ", "sexo": "HOMBRE", "referencia": 172 },
-  { "nombre": "AMOR AMOR", "sexo": "FEMENINA", "referencia": 36 },
-  { "nombre": "ANAIS ANAIS", "sexo": "FEMENINA", "referencia": 158 },
-  { "nombre": "ANGEL ", "sexo": "HOMBRE", "referencia": 24 },
-  { "nombre": "ANGEL ", "sexo": "FEMENINA", "referencia": 4 },
-  { "nombre": "AROMATICS ELIXIR", "sexo": "FEMENINA", "referencia": 77 },
-  { "nombre": "AVENTUS CREED ", "sexo": "HOMBRE", "referencia": 44 },
-  { "nombre": "BAD BOY", "sexo": "HOMBRE", "referencia": 119 },
-  { "nombre": "BE DELICIOUS ", "sexo": "FEMENINA", "referencia": 67 },
-  { "nombre": "BLACK CODE CABALLERO", "sexo": "HOMBRE", "referencia": 88 },
-  { "nombre": "BLACK OPIUM ", "sexo": "FEMENINA", "referencia": 32 },
-  { "nombre": "BLUE CHANEL ", "sexo": "HOMBRE", "referencia": 173 },
-  { "nombre": "BOSS ", "sexo": "HOMBRE", "referencia": 20 },
-  { "nombre": "BOSS IN MOTION", "sexo": "HOMBRE", "referencia": 39 },
-  { "nombre": "BOSS NIGHT", "sexo": "HOMBRE", "referencia": 41 },
-  { "nombre": "BURBERRYS BODY ", "sexo": "FEMENINA", "referencia": 176 },
-  { "nombre": "BURBERRYS BRIT ", "sexo": "HOMBRE", "referencia": 107 },
-  { "nombre": "BURBERRYS BRIT ", "sexo": "FEMENINA", "referencia": 175 },
-  { "nombre": "BURBERRYS LONDON", "sexo": "FEMENINA", "referencia": 106 },
-  { "nombre": "BURBERRYS SUMMER", "sexo": "FEMENINA", "referencia": 170 },
-  { "nombre": "BURBERRYS WEEKEND", "sexo": "FEMENINA", "referencia": 1 },
-  { "nombre": "CACHAREL ", "sexo": "HOMBRE", "referencia": 73 },
-  { "nombre": "CAROLINA HERRERA ", "sexo": "FEMENINA", "referencia": 2 },
-  {
-    "nombre": "CH CAROLINA HERRERA ",
-    "sexo": "HOMBRE",
-    "referencia": 28
-  },
-  { "nombre": "CHANEL 5", "sexo": "FEMENINA", "referencia": 5 },
-  { "nombre": "CHLOE ", "sexo": "FEMENINA", "referencia": 56 },
-  { "nombre": "KING ", "sexo": "HOMBRE", "referencia": 116 },
-  { "nombre": "L INTENSO DG ", "sexo": "HOMBRE", "referencia": 125 },
-  { "nombre": "L´EMPERATRIZ D&G", "sexo": "MUJER", "referencia": 46 },
-  { "nombre": "L'HOMME", "sexo": "HOMBRE", "referencia": 115 },
-  { "nombre": "LA VIDA ES BELLA", "sexo": "MUJER", "referencia": 81 },
-  { "nombre": "LACOSTE ", "sexo": "MUJER", "referencia": 51 },
-  { "nombre": "LADY MILLION", "sexo": "MUJER", "referencia": 104 },
-  { "nombre": "LE MALE JP GAUTIER", "sexo": "HOMBRE", "referencia": 17 },
-  { "nombre": "LIBRE", "sexo": "MUJER", "referencia": 118 },
-  { "nombre": "LIGHT BLUE ", "sexo": "HOMBRE", "referencia": 76 },
-  { "nombre": "LIGHT BLUE", "sexo": "MUJER", "referencia": 69 },
-  { "nombre": "LOEWE 7", "sexo": "HOMBRE", "referencia": 114 },
-  { "nombre": "LOEWE ", "sexo": "HOMBRE", "referencia": 96 },
-  { "nombre": "LOLITA LEMPICA MUER", "sexo": "MUJER", "referencia": 145 },
-  { "nombre": "LOVE CHLOE", "sexo": "MUJER", "referencia": 23 },
-  { "nombre": "MAGNETISEN (ESCADA)", "sexo": "MUJER", "referencia": 14 },
-  { "nombre": "MAXIMO DUTTY ", "sexo": "HOMBRE", "referencia": 99 },
-  { "nombre": "MIRACLE", "sexo": "MUJER", "referencia": 9 },
-  { "nombre": "MISS DIOR", "sexo": "MUJER", "referencia": 93 },
-  { "nombre": "MISS DIOR CHERY", "sexo": "MUJER", "referencia": 180 },
-  { "nombre": "MY WAY ", "sexo": "MUJER", "referencia": 179 },
-  { "nombre": "NARCISO RODRIGUES ", "sexo": "HOMBRE", "referencia": 31 },
-  { "nombre": "NARCISO RODRIGUEZ ", "sexo": "MUJER", "referencia": 94 },
-  { "nombre": "NINA", "sexo": "MUJER", "referencia": 90 },
-  { "nombre": "NOA", "sexo": "MUJER", "referencia": 150 },
-  { "nombre": "O DE LANCOME", "sexo": "MUJER", "referencia": 157 },
-  { "nombre": "OLIMPIA ", "sexo": "MUJER", "referencia": 33 },
-  { "nombre": "OPIUM ", "sexo": "HOMBRE", "referencia": 48 },
-  { "nombre": "OPIUM ", "sexo": "MUJER", "referencia": 49 },
-  { "nombre": "PACO RABANNE ", "sexo": "HOMBRE", "referencia": 57 },
-  { "nombre": "PARIS", "sexo": "MUJER", "referencia": 50 },
-  { "nombre": "PLEASURE", "sexo": "MUJER", "referencia": 151 },
-  { "nombre": "POEME", "sexo": "MUJER", "referencia": 22 },
-  { "nombre": "POLO BLEU", "sexo": "HOMBRE", "referencia": 30 },
-  { "nombre": "PURE XS ", "sexo": "HOMBRE", "referencia": 43 },
-  { "nombre": "PURE XS ", "sexo": "MUJER", "referencia": 121 },
-  { "nombre": "RALPH ", "sexo": "MUJER", "referencia": 78 },
-  { "nombre": "RIVE GAUCHE", "sexo": "MUJER", "referencia": 110 },
-  { "nombre": "ROCHAS MAN", "sexo": "HOMBRE", "referencia": 66 },
-  { "nombre": "SAUVAGE ", "sexo": "HOMBRE", "referencia": 21 },
-  { "nombre": "SCANDAL ", "sexo": "HOMBRE", "referencia": 86 },
-  { "nombre": "SCANDAL ", "sexo": "MUJER", "referencia": 55 },
-  { "nombre": "SI ARMANI ", "sexo": "MUJER", "referencia": 109 },
-  { "nombre": "SI PASSIONE", "sexo": "MUJER", "referencia": 128 },
-  { "nombre": "SOLO LOEWE", "sexo": "HOMBRE", "referencia": 16 },
-  { "nombre": "SOLO LOEWE ELLA", "sexo": "MUJER", "referencia": 117 },
-  { "nombre": "CK ONE", "sexo": "UNISEX", "referencia": 7 },
-  { "nombre": "CK-BE", "sexo": "MASCULINA", "referencia": 87 },
-  { "nombre": "COCO CHANEL", "sexo": "FEMENINA", "referencia": 161 },
-  { "nombre": "COCO MADEMOISELLE", "sexo": "FEMENINA", "referencia": 29 },
-  { "nombre": "COOL WATER", "sexo": "MASCULINA", "referencia": 25 },
-  { "nombre": "COOL WATER ", "sexo": "FEMENINA", "referencia": 52 },
-  { "nombre": "DECLARATION CARTIER", "sexo": "MASCULINA", "referencia": 54 },
-  { "nombre": "DIESEL", "sexo": "MASCULINA", "referencia": 111 },
-  { "nombre": "DIESEL", "sexo": "FEMENINA", "referencia": 112 },
-  { "nombre": "DIOR HOMME", "sexo": "MASCULINA", "referencia": 83 },
-  { "nombre": "DKNY", "sexo": "FEMENINA", "referencia": 64 },
-  { "nombre": "DOLCE AND GABANNA", "sexo": "FEMENINA", "referencia": 8 },
-  { "nombre": "DOLCE GABANNA", "sexo": "MASCULINA", "referencia": 37 },
-  { "nombre": "EDEN", "sexo": "FEMENINA", "referencia": 97 },
-  { "nombre": "EGOISTE PLATINIUM", "sexo": "MASCULINA", "referencia": 74 },
-  { "nombre": "EMPORIO", "sexo": "MASCULINA", "referencia": 163 },
-  { "nombre": "EMPORIO", "sexo": "FEMENINA", "referencia": 92 },
-  { "nombre": "ESCAPE", "sexo": "FEMENINA", "referencia": 84 },
-  { "nombre": "ESENCIA DE LOEWE", "sexo": "MASCULINA", "referencia": 38 },
-  { "nombre": "ETERNITY", "sexo": "MASCULINA", "referencia": 71 },
-  { "nombre": "ETERNITY ", "sexo": "FEMENINA", "referencia": 159 },
-  { "nombre": "EUFORIA", "sexo": "FEMENINA", "referencia": 62 },
-  { "nombre": "EUFORIA", "sexo": "MASCULINA", "referencia": 15 },
-  { "nombre": "FANTASY", "sexo": "FEMENINA", "referencia": 35 },
-  { "nombre": "FARENHEIT", "sexo": "MASCULINA", "referencia": 70 },
-  { "nombre": "FLOWER KENZO", "sexo": "FEMENINA", "referencia": 105 },
-  { "nombre": "GABRIEL", "sexo": "FEMENINA", "referencia": 53 },
-  { "nombre": "GIO SEÑORA", "sexo": "FEMENINA", "referencia": 82 },
-  { "nombre": "GLORIA", "sexo": "FEMENINA", "referencia": 101 },
-  { "nombre": "GOOD GIRL", "sexo": "FEMENINA", "referencia": 98 },
-  { "nombre": "HALLOWEN", "sexo": "FEMENINA", "referencia": 160 },
-  { "nombre": "HAPPY CLINIQUE", "sexo": "FEMENINA", "referencia": 167 },
-  { "nombre": "HENO PRAVIA", "sexo": "FEMENINA", "referencia": 65 },
-  { "nombre": "HERMES VOYAGER", "sexo": "UNISEX", "referencia": 79 },
-  { "nombre": "HERRERA FOR MEN", "sexo": "MASCULINA", "referencia": 40 },
-  { "nombre": "HIPNOSIS", "sexo": "FEMENINA", "referencia": 95 },
-  { "nombre": "HIPNOTIC POISON DIOR", "sexo": "FEMENINA", "referencia": 126 },
-  { "nombre": "HUGO BOSS", "sexo": "MASCULINA", "referencia": 18 },
-  { "nombre": "HUGO ", "sexo": "FEMENINA", "referencia": 13 },
-  { "nombre": "IDOLE", "sexo": "FEMENINA", "referencia": 120 },
-  { "nombre": "INVICTUS", "sexo": "MASCULINA", "referencia": 59 },
-  { "nombre": "ISSAY MIYAKE", "sexo": "FEMENINA", "referencia": 174 },
-  { "nombre": "ISSEY MILLAKE", "sexo": "MASCULINA", "referencia": 27 },
-  { "nombre": "J. P. GOLTIER ", "sexo": "FEMENINA", "referencia": 68 },
-  { "nombre": "J'ADORE", "sexo": "FEMENINA", "referencia": 103 },
-  { "nombre": "JEAN PAUL GAUTIER 2", "sexo": "MASCULINA", "referencia": 102 },
-  {
-    "nombre": "TARTINE INFANTIL",
-    "sexo": "UNISEX",
-    "referencia": 91
-  },
-  {
-    "nombre": "TE ELIZABETH ARDEN",
-    "sexo": "FEMENINA",
-    "referencia": 85
-  },
-  {
-    "nombre": "TERRE HERMES",
-    "sexo": "MASCULINA",
-    "referencia": 122
-  },
-  {
-    "nombre": "THE ONE D&G HOMBRE",
-    "sexo": "MASCULINA",
-    "referencia": 100
-  },
-  {
-    "nombre": "THE ONE D&G MUJER",
-    "sexo": "FEMENINA",
-    "referencia": 89
-  },
-  {
-    "nombre": "THE PHANTON",
-    "sexo": "MASCULINA",
-    "referencia": 178
-  },
-  {
-    "nombre": "THE SCENT HOMBRE",
-    "sexo": "MASCULINA",
-    "referencia": 10
-  },
-  {
-    "nombre": "THE SCENT MUJER",
-    "sexo": "FEMENINA",
-    "referencia": 34
-  },
-  {
-    "nombre": "TOM FORD TABACCO ET VAINILLE",
-    "sexo": "MASCULINA",
-    "referencia": 123
-  },
-  {
-    "nombre": "TOMMY MUJER",
-    "sexo": "FEMENINA",
-    "referencia": 58
-  },
-  {
-    "nombre": "TOUS INFANTIL",
-    "sexo": "UNISEX",
-    "referencia": 60
-  },
-  {
-    "nombre": "TOUS MUJER",
-    "sexo": "FEMENINA",
-    "referencia": 113
-  },
-  {
-    "nombre": "TRESOR",
-    "sexo": "FEMENINA",
-    "referencia": 152
-  },
-  {
-    "nombre": "TUXEDO HOMBRE",
-    "sexo": "MASCULINA",
-    "referencia": 61
-  },
-  {
-    "nombre": "ULTRAVIOLET HOMBRE",
-    "sexo": "MASCULINA",
-    "referencia": 72
-  },
-  {
-    "nombre": "ULTRAVIOLET MUJER",
-    "sexo": "FEMENINA",
-    "referencia": 63
-  },
-  {
-    "nombre": "XS BLACK",
-    "sexo": "MASCULINA",
-    "referencia": 75
-  },
-  {
-    "nombre": "XS BLACK MUJER",
-    "sexo": "FEMENINA",
-    "referencia": 124
-  },
-  {
-    "nombre": "XS PACO R.",
-    "sexo": "MASCULINA",
-    "referencia": 155
-  },
-  {
-    "nombre": "YOUR ARMANI HOMBRE",
-    "sexo": "MASCULINA",
-    "referencia": 117
-  },
-  {
-    "nombre": "ABERCROMBIE",
-    "sexo": "",
-    "referencia": 0
-  },
-  {
-    "nombre": "VICTORIA SECRET´S",
-    "sexo": "",
-    "referencia": 0
-  },
-  {
-    "nombre": "1 MILLION LUCKY",
-    "sexo": "",
-    "referencia": 0
-  },
-  {
-    "nombre": "ULTRA MALE",
-    "sexo": "",
-    "referencia": 0
-  },
-  {
-    "nombre": "LOU LOU",
-    "sexo": "",
-    "referencia": 0
-  },
-  {
-    "nombre": "GUCCI FLORA",
-    "sexo": "",
-    "referencia": 0
-  },
-  {
-    "nombre": "AURA",
-    "sexo": "",
-    "referencia": 0
-  },
-  {
-    "nombre": "FEMME",
-    "sexo": "",
-    "referencia": 0
-  },
-  {
-    "nombre": "PRINCESA DE ARABIA",
-    "sexo": "",
-    "referencia": 0
-  },
-  {
-    "nombre": "PRINCIPE DE ARABIA",
-    "sexo": "",
-    "referencia": 0
-  },
-  {
-    "nombre": "1",
-    "sexo": "",
-    "referencia": 0
-  },
-  {
-    "nombre": "ORQUIDEA NEGRA",
-    "sexo": "",
-    "referencia": 0
-  },
-  {
-    "nombre": "OUD W",
-    "sexo": "",
-    "referencia": 0
-  }
+{
+  products:[
+   {
+      "nombre":"1 MILLION ",
+      "sexo":"HOMBRE",
+      "referencia":108
+   },
+   {
+      "nombre":"212 ",
+      "sexo":"HOMBRE",
+      "referencia":45
+   },
+   {
+      "nombre":"212 ",
+      "sexo":"FEMENINA",
+      "referencia":12
+   },
+   {
+      "nombre":"212 SEXY ",
+      "sexo":"HOMBRE",
+      "referencia":171
+   },
+   {
+      "nombre":"212 VIP BLACK ",
+      "sexo":"HOMBRE",
+      "referencia":127
+   },
+   {
+      "nombre":"212 VIP ",
+      "sexo":"HOMBRE",
+      "referencia":47
+   },
+   {
+      "nombre":"5a AVENIDA",
+      "sexo":"FEMENINA",
+      "referencia":3
+   },
+   {
+      "nombre":"ACQUA DI GIO ",
+      "sexo":"HOMBRE",
+      "referencia":26
+   },
+   {
+      "nombre":"AGUA DE ROCHAS ",
+      "sexo":"FEMENINA",
+      "referencia":6
+   },
+   {
+      "nombre":"AGUA F ROSAS",
+      "sexo":"FEMENINA",
+      "referencia":11
+   },
+   {
+      "nombre":"AGUA FRESCA ",
+      "sexo":"HOMBRE",
+      "referencia":19
+   },
+   {
+      "nombre":"AIRE LOEWE",
+      "sexo":"FEMENINA",
+      "referencia":80
+   },
+   {
+      "nombre":"ALLIEN ",
+      "sexo":"FEMENINA",
+      "referencia":42
+   },
+   {
+      "nombre":"ALLURE ",
+      "sexo":"HOMBRE",
+      "referencia":162
+   },
+   {
+      "nombre":"ALLURE ",
+      "sexo":"FEMENINA",
+      "referencia":156
+   },
+   {
+      "nombre":"ALLURE SPORT ",
+      "sexo":"HOMBRE",
+      "referencia":172
+   },
+   {
+      "nombre":"AMOR AMOR",
+      "sexo":"FEMENINA",
+      "referencia":36
+   },
+   {
+      "nombre":"ANAIS ANAIS",
+      "sexo":"FEMENINA",
+      "referencia":158
+   },
+   {
+      "nombre":"ANGEL ",
+      "sexo":"HOMBRE",
+      "referencia":24
+   },
+   {
+      "nombre":"ANGEL ",
+      "sexo":"FEMENINA",
+      "referencia":4
+   },
+   {
+      "nombre":"AROMATICS ELIXIR",
+      "sexo":"FEMENINA",
+      "referencia":77
+   },
+   {
+      "nombre":"AVENTUS CREED ",
+      "sexo":"HOMBRE",
+      "referencia":44
+   },
+   {
+      "nombre":"BAD BOY",
+      "sexo":"HOMBRE",
+      "referencia":119
+   },
+   {
+      "nombre":"BE DELICIOUS ",
+      "sexo":"FEMENINA",
+      "referencia":67
+   },
+   {
+      "nombre":"BLACK CODE CABALLERO",
+      "sexo":"HOMBRE",
+      "referencia":88
+   },
+   {
+      "nombre":"BLACK OPIUM ",
+      "sexo":"FEMENINA",
+      "referencia":32
+   },
+   {
+      "nombre":"BLUE CHANEL ",
+      "sexo":"HOMBRE",
+      "referencia":173
+   },
+   {
+      "nombre":"BOSS ",
+      "sexo":"HOMBRE",
+      "referencia":20
+   },
+   {
+      "nombre":"BOSS IN MOTION",
+      "sexo":"HOMBRE",
+      "referencia":39
+   },
+   {
+      "nombre":"BOSS NIGHT",
+      "sexo":"HOMBRE",
+      "referencia":41
+   },
+   {
+      "nombre":"BURBERRYS BODY ",
+      "sexo":"FEMENINA",
+      "referencia":176
+   },
+   {
+      "nombre":"BURBERRYS BRIT ",
+      "sexo":"HOMBRE",
+      "referencia":107
+   },
+   {
+      "nombre":"BURBERRYS BRIT ",
+      "sexo":"FEMENINA",
+      "referencia":175
+   },
+   {
+      "nombre":"BURBERRYS LONDON",
+      "sexo":"FEMENINA",
+      "referencia":106
+   },
+   {
+      "nombre":"BURBERRYS SUMMER",
+      "sexo":"FEMENINA",
+      "referencia":170
+   },
+   {
+      "nombre":"BURBERRYS WEEKEND",
+      "sexo":"FEMENINA",
+      "referencia":1
+   },
+   {
+      "nombre":"CACHAREL ",
+      "sexo":"HOMBRE",
+      "referencia":73
+   },
+   {
+      "nombre":"CAROLINA HERRERA ",
+      "sexo":"FEMENINA",
+      "referencia":2
+   },
+   {
+      "nombre":"CH CAROLINA HERRERA ",
+      "sexo":"HOMBRE",
+      "referencia":28
+   },
+   {
+      "nombre":"CHANEL 5",
+      "sexo":"FEMENINA",
+      "referencia":5
+   },
+   {
+      "nombre":"CHLOE ",
+      "sexo":"FEMENINA",
+      "referencia":56
+   },
+   {
+      "nombre":"KING ",
+      "sexo":"HOMBRE",
+      "referencia":116
+   },
+   {
+      "nombre":"L INTENSO DG ",
+      "sexo":"HOMBRE",
+      "referencia":125
+   },
+   {
+      "nombre":"L´EMPERATRIZ D&G",
+      "sexo":"MUJER",
+      "referencia":46
+   },
+   {
+      "nombre":"L'HOMME",
+      "sexo":"HOMBRE",
+      "referencia":115
+   },
+   {
+      "nombre":"LA VIDA ES BELLA",
+      "sexo":"MUJER",
+      "referencia":81
+   },
+   {
+      "nombre":"LACOSTE ",
+      "sexo":"MUJER",
+      "referencia":51
+   },
+   {
+      "nombre":"LADY MILLION",
+      "sexo":"MUJER",
+      "referencia":104
+   },
+   {
+      "nombre":"LE MALE JP GAUTIER",
+      "sexo":"HOMBRE",
+      "referencia":17
+   },
+   {
+      "nombre":"LIBRE",
+      "sexo":"MUJER",
+      "referencia":118
+   },
+   {
+      "nombre":"LIGHT BLUE ",
+      "sexo":"HOMBRE",
+      "referencia":76
+   },
+   {
+      "nombre":"LIGHT BLUE",
+      "sexo":"MUJER",
+      "referencia":69
+   },
+   {
+      "nombre":"LOEWE 7",
+      "sexo":"HOMBRE",
+      "referencia":114
+   },
+   {
+      "nombre":"LOEWE ",
+      "sexo":"HOMBRE",
+      "referencia":96
+   },
+   {
+      "nombre":"LOLITA LEMPICA MUER",
+      "sexo":"MUJER",
+      "referencia":145
+   },
+   {
+      "nombre":"LOVE CHLOE",
+      "sexo":"MUJER",
+      "referencia":23
+   },
+   {
+      "nombre":"MAGNETISEN (ESCADA)",
+      "sexo":"MUJER",
+      "referencia":14
+   },
+   {
+      "nombre":"MAXIMO DUTTY ",
+      "sexo":"HOMBRE",
+      "referencia":99
+   },
+   {
+      "nombre":"MIRACLE",
+      "sexo":"MUJER",
+      "referencia":9
+   },
+   {
+      "nombre":"MISS DIOR",
+      "sexo":"MUJER",
+      "referencia":93
+   },
+   {
+      "nombre":"MISS DIOR CHERY",
+      "sexo":"MUJER",
+      "referencia":180
+   },
+   {
+      "nombre":"MY WAY ",
+      "sexo":"MUJER",
+      "referencia":179
+   },
+   {
+      "nombre":"NARCISO RODRIGUES ",
+      "sexo":"HOMBRE",
+      "referencia":31
+   },
+   {
+      "nombre":"NARCISO RODRIGUEZ ",
+      "sexo":"MUJER",
+      "referencia":94
+   },
+   {
+      "nombre":"NINA",
+      "sexo":"MUJER",
+      "referencia":90
+   },
+   {
+      "nombre":"NOA",
+      "sexo":"MUJER",
+      "referencia":150
+   },
+   {
+      "nombre":"O DE LANCOME",
+      "sexo":"MUJER",
+      "referencia":157
+   },
+   {
+      "nombre":"OLIMPIA ",
+      "sexo":"MUJER",
+      "referencia":33
+   },
+   {
+      "nombre":"OPIUM ",
+      "sexo":"HOMBRE",
+      "referencia":48
+   },
+   {
+      "nombre":"OPIUM ",
+      "sexo":"MUJER",
+      "referencia":49
+   },
+   {
+      "nombre":"PACO RABANNE ",
+      "sexo":"HOMBRE",
+      "referencia":57
+   },
+   {
+      "nombre":"PARIS",
+      "sexo":"MUJER",
+      "referencia":50
+   },
+   {
+      "nombre":"PLEASURE",
+      "sexo":"MUJER",
+      "referencia":151
+   },
+   {
+      "nombre":"POEME",
+      "sexo":"MUJER",
+      "referencia":22
+   },
+   {
+      "nombre":"POLO BLEU",
+      "sexo":"HOMBRE",
+      "referencia":30
+   },
+   {
+      "nombre":"PURE XS ",
+      "sexo":"HOMBRE",
+      "referencia":43
+   },
+   {
+      "nombre":"PURE XS ",
+      "sexo":"MUJER",
+      "referencia":121
+   },
+   {
+      "nombre":"RALPH ",
+      "sexo":"MUJER",
+      "referencia":78
+   },
+   {
+      "nombre":"RIVE GAUCHE",
+      "sexo":"MUJER",
+      "referencia":110
+   },
+   {
+      "nombre":"ROCHAS MAN",
+      "sexo":"HOMBRE",
+      "referencia":66
+   },
+   {
+      "nombre":"SAUVAGE ",
+      "sexo":"HOMBRE",
+      "referencia":21
+   },
+   {
+      "nombre":"SCANDAL ",
+      "sexo":"HOMBRE",
+      "referencia":86
+   },
+   {
+      "nombre":"SCANDAL ",
+      "sexo":"MUJER",
+      "referencia":55
+   },
+   {
+      "nombre":"SI ARMANI ",
+      "sexo":"MUJER",
+      "referencia":109
+   },
+   {
+      "nombre":"SI PASSIONE",
+      "sexo":"MUJER",
+      "referencia":128
+   },
+   {
+      "nombre":"SOLO LOEWE",
+      "sexo":"HOMBRE",
+      "referencia":16
+   },
+   {
+      "nombre":"SOLO LOEWE ELLA",
+      "sexo":"MUJER",
+      "referencia":117
+   },
+   {
+      "nombre":"CK ONE",
+      "sexo":"UNISEX",
+      "referencia":7
+   },
+   {
+      "nombre":"CK-BE",
+      "sexo":"MASCULINA",
+      "referencia":87
+   },
+   {
+      "nombre":"COCO CHANEL",
+      "sexo":"FEMENINA",
+      "referencia":161
+   },
+   {
+      "nombre":"COCO MADEMOISELLE",
+      "sexo":"FEMENINA",
+      "referencia":29
+   },
+   {
+      "nombre":"COOL WATER",
+      "sexo":"MASCULINA",
+      "referencia":25
+   },
+   {
+      "nombre":"COOL WATER ",
+      "sexo":"FEMENINA",
+      "referencia":52
+   },
+   {
+      "nombre":"DECLARATION CARTIER",
+      "sexo":"MASCULINA",
+      "referencia":54
+   },
+   {
+      "nombre":"DIESEL",
+      "sexo":"MASCULINA",
+      "referencia":111
+   },
+   {
+      "nombre":"DIESEL",
+      "sexo":"FEMENINA",
+      "referencia":112
+   },
+   {
+      "nombre":"DIOR HOMME",
+      "sexo":"MASCULINA",
+      "referencia":83
+   },
+   {
+      "nombre":"DKNY",
+      "sexo":"FEMENINA",
+      "referencia":64
+   },
+   {
+      "nombre":"DOLCE AND GABANNA",
+      "sexo":"FEMENINA",
+      "referencia":8
+   },
+   {
+      "nombre":"DOLCE GABANNA",
+      "sexo":"MASCULINA",
+      "referencia":37
+   },
+   {
+      "nombre":"EDEN",
+      "sexo":"FEMENINA",
+      "referencia":97
+   },
+   {
+      "nombre":"EGOISTE PLATINIUM",
+      "sexo":"MASCULINA",
+      "referencia":74
+   },
+   {
+      "nombre":"EMPORIO",
+      "sexo":"MASCULINA",
+      "referencia":163
+   },
+   {
+      "nombre":"EMPORIO",
+      "sexo":"FEMENINA",
+      "referencia":92
+   },
+   {
+      "nombre":"ESCAPE",
+      "sexo":"FEMENINA",
+      "referencia":84
+   },
+   {
+      "nombre":"ESENCIA DE LOEWE",
+      "sexo":"MASCULINA",
+      "referencia":38
+   },
+   {
+      "nombre":"ETERNITY",
+      "sexo":"MASCULINA",
+      "referencia":71
+   },
+   {
+      "nombre":"ETERNITY ",
+      "sexo":"FEMENINA",
+      "referencia":159
+   },
+   {
+      "nombre":"EUFORIA",
+      "sexo":"FEMENINA",
+      "referencia":62
+   },
+   {
+      "nombre":"EUFORIA",
+      "sexo":"MASCULINA",
+      "referencia":15
+   },
+   {
+      "nombre":"FANTASY",
+      "sexo":"FEMENINA",
+      "referencia":35
+   },
+   {
+      "nombre":"FARENHEIT",
+      "sexo":"MASCULINA",
+      "referencia":70
+   },
+   {
+      "nombre":"FLOWER KENZO",
+      "sexo":"FEMENINA",
+      "referencia":105
+   },
+   {
+      "nombre":"GABRIEL",
+      "sexo":"FEMENINA",
+      "referencia":53
+   },
+   {
+      "nombre":"GIO SEÑORA",
+      "sexo":"FEMENINA",
+      "referencia":82
+   },
+   {
+      "nombre":"GLORIA",
+      "sexo":"FEMENINA",
+      "referencia":101
+   },
+   {
+      "nombre":"GOOD GIRL",
+      "sexo":"FEMENINA",
+      "referencia":98
+   },
+   {
+      "nombre":"HALLOWEN",
+      "sexo":"FEMENINA",
+      "referencia":160
+   },
+   {
+      "nombre":"HAPPY CLINIQUE",
+      "sexo":"FEMENINA",
+      "referencia":167
+   },
+   {
+      "nombre":"HENO PRAVIA",
+      "sexo":"FEMENINA",
+      "referencia":65
+   },
+   {
+      "nombre":"HERMES VOYAGER",
+      "sexo":"UNISEX",
+      "referencia":79
+   },
+   {
+      "nombre":"HERRERA FOR MEN",
+      "sexo":"MASCULINA",
+      "referencia":40
+   },
+   {
+      "nombre":"HIPNOSIS",
+      "sexo":"FEMENINA",
+      "referencia":95
+   },
+   {
+      "nombre":"HIPNOTIC POISON DIOR",
+      "sexo":"FEMENINA",
+      "referencia":126
+   },
+   {
+      "nombre":"HUGO BOSS",
+      "sexo":"MASCULINA",
+      "referencia":18
+   },
+   {
+      "nombre":"HUGO ",
+      "sexo":"FEMENINA",
+      "referencia":13
+   },
+   {
+      "nombre":"IDOLE",
+      "sexo":"FEMENINA",
+      "referencia":120
+   },
+   {
+      "nombre":"INVICTUS",
+      "sexo":"MASCULINA",
+      "referencia":59
+   },
+   {
+      "nombre":"ISSAY MIYAKE",
+      "sexo":"FEMENINA",
+      "referencia":174
+   },
+   {
+      "nombre":"ISSEY MILLAKE",
+      "sexo":"MASCULINA",
+      "referencia":27
+   },
+   {
+      "nombre":"J. P. GOLTIER ",
+      "sexo":"FEMENINA",
+      "referencia":68
+   },
+   {
+      "nombre":"J'ADORE",
+      "sexo":"FEMENINA",
+      "referencia":103
+   },
+   {
+      "nombre":"JEAN PAUL GAUTIER 2",
+      "sexo":"MASCULINA",
+      "referencia":102
+   },
+   {
+      "nombre":"TARTINE INFANTIL",
+      "sexo":"UNISEX",
+      "referencia":91
+   },
+   {
+      "nombre":"TE ELIZABETH ARDEN",
+      "sexo":"FEMENINA",
+      "referencia":85
+   },
+   {
+      "nombre":"TERRE HERMES",
+      "sexo":"MASCULINA",
+      "referencia":122
+   },
+   {
+      "nombre":"THE ONE D&G HOMBRE",
+      "sexo":"MASCULINA",
+      "referencia":100
+   },
+   {
+      "nombre":"THE ONE D&G MUJER",
+      "sexo":"FEMENINA",
+      "referencia":89
+   },
+   {
+      "nombre":"THE PHANTON",
+      "sexo":"MASCULINA",
+      "referencia":178
+   },
+   {
+      "nombre":"THE SCENT HOMBRE",
+      "sexo":"MASCULINA",
+      "referencia":10
+   },
+   {
+      "nombre":"THE SCENT MUJER",
+      "sexo":"FEMENINA",
+      "referencia":34
+   },
+   {
+      "nombre":"TOM FORD TABACCO ET VAINILLE",
+      "sexo":"MASCULINA",
+      "referencia":123
+   },
+   {
+      "nombre":"TOMMY MUJER",
+      "sexo":"FEMENINA",
+      "referencia":58
+   },
+   {
+      "nombre":"TOUS INFANTIL",
+      "sexo":"UNISEX",
+      "referencia":60
+   },
+   {
+      "nombre":"TOUS MUJER",
+      "sexo":"FEMENINA",
+      "referencia":113
+   },
+   {
+      "nombre":"TRESOR",
+      "sexo":"FEMENINA",
+      "referencia":152
+   },
+   {
+      "nombre":"TUXEDO HOMBRE",
+      "sexo":"MASCULINA",
+      "referencia":61
+   },
+   {
+      "nombre":"ULTRAVIOLET HOMBRE",
+      "sexo":"MASCULINA",
+      "referencia":72
+   },
+   {
+      "nombre":"ULTRAVIOLET MUJER",
+      "sexo":"FEMENINA",
+      "referencia":63
+   },
+   {
+      "nombre":"XS BLACK",
+      "sexo":"MASCULINA",
+      "referencia":75
+   },
+   {
+      "nombre":"XS BLACK MUJER",
+      "sexo":"FEMENINA",
+      "referencia":124
+   },
+   {
+      "nombre":"XS PACO R.",
+      "sexo":"MASCULINA",
+      "referencia":155
+   },
+   {
+      "nombre":"YOUR ARMANI HOMBRE",
+      "sexo":"MASCULINA",
+      "referencia":117
+   },
+   {
+      "nombre":"ABERCROMBIE",
+      "sexo":"",
+      "referencia":0
+   },
+   {
+      "nombre":"VICTORIA SECRET´S",
+      "sexo":"",
+      "referencia":0
+   },
+   {
+      "nombre":"1 MILLION LUCKY",
+      "sexo":"",
+      "referencia":0
+   },
+   {
+      "nombre":"ULTRA MALE",
+      "sexo":"",
+      "referencia":0
+   },
+   {
+      "nombre":"LOU LOU",
+      "sexo":"",
+      "referencia":0
+   },
+   {
+      "nombre":"GUCCI FLORA",
+      "sexo":"",
+      "referencia":0
+   },
+   {
+      "nombre":"AURA",
+      "sexo":"",
+      "referencia":0
+   },
+   {
+      "nombre":"FEMME",
+      "sexo":"",
+      "referencia":0
+   },
+   {
+      "nombre":"PRINCESA DE ARABIA",
+      "sexo":"",
+      "referencia":0
+   },
+   {
+      "nombre":"PRINCIPE DE ARABIA",
+      "sexo":"",
+      "referencia":0
+   },
+   {
+      "nombre":"1",
+      "sexo":"",
+      "referencia":0
+   },
+   {
+      "nombre":"ORQUIDEA NEGRA",
+      "sexo":"",
+      "referencia":0
+   },
+   {
+      "nombre":"OUD W",
+      "sexo":"",
+      "referencia":0
+   }
 ]
+}
